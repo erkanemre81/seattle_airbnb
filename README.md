@@ -2,8 +2,8 @@
 
 # Installations
 
-- NumPy
 - Pandas
+- NumPy
 - Seaborn
 - Matplotlib
 - Wordcloud
@@ -21,6 +21,20 @@ Here are the questions
 I shared the results of my exploratory data analysis for the answers to my questions in a Medium blog post with visualizations.
 
 # File Descriptions
+
+You can find main data as csv file and analysis file as ipynb format
+
+# Blog Post on Medium
+
+The findings and visualizations are presented along with all the comments in the blog post
+
+# Licensing, Authors, Acknowledgements
+
+I would like to express my acknowledgement to Kaggle for providing the valuable dataset used in this project. here is dataset link: https://www.kaggle.com/datasets/airbnb/seattle
+
+Licence is public domain
+
+
 
 
 
