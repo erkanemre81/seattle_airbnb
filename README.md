@@ -12,7 +12,7 @@
 
 I wanted to find answers to some questions about the features of rooms/houses rented through Airbnb by using the Seattle Airbnb dataset available on Kaggle.
 
-Here are the questions
+Here are the questions:
 
 - Which amenities are most common. list first three? (list using a word cloud)
 - What is the relationship between numeric columns, especially price ?
@@ -22,17 +22,17 @@ I shared the results of my exploratory data analysis for the answers to my quest
 
 # File Descriptions
 
-You can find main data as csv file and analysis file as ipynb format
+You can find main data as csv file and analysis file as ipynb format.
 
 # Blog Post on Medium
 
-The findings and visualizations are presented along with all the comments in the blog post
+The findings and visualizations are presented along with all the comments in the blog post...
 
 # Licensing, Authors, Acknowledgements
 
 I would like to express my acknowledgement to Kaggle for providing the valuable dataset used in this project. here is dataset link: https://www.kaggle.com/datasets/airbnb/seattle
 
-Licence is public domain
+Licence is public domain.
 
 
 
