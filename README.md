@@ -26,7 +26,9 @@ You can find main data as csv file and analysis file as ipynb format.
 
 # Blog Post on Medium
 
-The findings and visualizations are presented along with all the comments in the blog post...
+The findings and visualizations are presented along with all the comments in the blog post. Link is below.
+
+https://medium.com/@emreakyuz1981/3-questions-3-answers-about-seattle-airbnb-data-e6b9be7447dc
 
 # Licensing, Authors, Acknowledgements
 
